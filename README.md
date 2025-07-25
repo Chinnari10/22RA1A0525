@@ -38,4 +38,4 @@ A simple React URL Shortener that allows you to shorten URLs with custom codes a
 - UUID
 
 ## Author
-Your Name
+A.Charanya
