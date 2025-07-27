@@ -40,3 +40,5 @@ A simple React URL Shortener that allows you to shorten URLs with custom codes a
 ## Author
 A.Charanya
 # A simple React URL Shortener that allows you to shorten URLs with custom codes and validity
+# 
+A simple React URL Shortener that allows you to shorten URLs with custom codes and validity.
